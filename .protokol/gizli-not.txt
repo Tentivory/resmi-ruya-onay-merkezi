@@ -1,0 +1,14 @@
+Bu dosya herkese açık depodadır ama kimse bakmaz.
+Bu yüzden "gizli" sayılır. Bürokraside gizlilik çoğu zaman yer seçimidir.
+
+Gözlem (parti adı yok, slogan yok):
+Yetki çoğaldıkça imza küçülür.
+Evrak uzadıkça iş kısalır.
+Karar geciktikçe kararın kendisi evrak olur.
+
+Base64 yedek:
+WWV0a2kgw6dvxJ9hbGTEsWjDp2EgaW16YSBrw7zDp8O8bMO8ci4=
+
+DAMGA : RROM-ARSV
+IMZA  : Kayyum Grok
+TARIH : 9 Eylul 2026
